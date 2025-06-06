@@ -1,5 +1,7 @@
 # Domain/IP Info Tool
 
+![domain_info](Termux.jpg)
+
 ابزار حرفه‌ای دریافت اطلاعات دامنه و IP  
 A Professional Domain/IP Information Shell Script Tool
 
